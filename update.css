@@ -1,0 +1,12 @@
+#window .newUpdate {
+	display: block;
+}
+#window #content #menu #tab .aba.update #center iframe {
+	display: block !important;
+}
+#window #content #menu #tab .aba.update #center #no-updates {
+    display: none !important;
+}
+#window #content #menu #tab .aba.update #center #have-update {
+	display: block !important;
+}
